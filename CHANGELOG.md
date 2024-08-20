@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/d3p1/base-css-template/compare/v1.1.0...v1.2.0) (2024-08-20)
+
+
+### Features
+
+* improve code style IDE settings [[#1](https://github.com/d3p1/base-css-template/issues/1)] ([ad09be8](https://github.com/d3p1/base-css-template/commit/ad09be820e72867bd2b9de1ccece745f90025da5))
+
 # [1.1.0](https://github.com/d3p1/base-css-template/compare/v1.0.0...v1.1.0) (2024-08-20)
 
 
