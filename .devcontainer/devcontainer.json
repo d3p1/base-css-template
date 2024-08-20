@@ -16,9 +16,7 @@
                 "DavidAnson.vscode-markdownlint"
             ],
             "settings": {
-                "editor.rulers": [
-                    80
-                ],
+                "editor.rulers": [80],
                 "editor.defaultFormatter": "esbenp.prettier-vscode",
                 "editor.formatOnSave": true
             }
