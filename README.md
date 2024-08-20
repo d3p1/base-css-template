@@ -20,7 +20,7 @@ This [template repository](https://docs.github.com/en/repositories/creating-and-
 
 We will proceed with detailed information about the various technologies used:
 
-- [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/): This repository comes with [`commitlint`](https://commitlint.js.org/) and [`husky`](https://typicode.github.io/husky/) installed, along with the [`@d3p1/commitlint-config` configuration](https://github.com/d3p1/commitlint-config), to enforce commits to follow the format: `<type>(<scope>): <description> [<issue-number>]`
+- [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/): This repository comes with [`commitlint`](https://commitlint.js.org/) and [`husky`](https://typicode.github.io/husky/) installed, along with the [`@d3p1/commitlint-config` configuration](https://github.com/d3p1/commitlint-config), to enforce commits to follow the format: `<type>(<scope>): <description> [<issue-number>]`.
 
 - [Prettier](https://prettier.io/): This repository includes `prettier` for maintaining code with a consistent style.
 
