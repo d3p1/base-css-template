@@ -1,3 +1,10 @@
+## [1.3.1](https://github.com/d3p1/base-css-template/compare/v1.3.0...v1.3.1) (2024-08-24)
+
+
+### Bug Fixes
+
+* improve locked dependencies and adjust code style of index file [[#1](https://github.com/d3p1/base-css-template/issues/1)] ([28e83f9](https://github.com/d3p1/base-css-template/commit/28e83f902c767746b3ce695c584dd2c5770025e8))
+
 # [1.3.0](https://github.com/d3p1/base-css-template/compare/v1.2.0...v1.3.0) (2024-08-21)
 
 
